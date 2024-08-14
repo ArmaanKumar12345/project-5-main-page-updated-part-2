@@ -11,11 +11,11 @@ line-height: 1.4em
 }
 head{
    
-    text-underline-position: below
+   
     }
 
 h1 {
-  text-decoration: underline;
+
     color: floralwhite/* Added text-decoration to underline */
   text-underline-position: below;
     font-family: Open Sans, sans-serif;/* This is optional but kept for your requirement */
