@@ -6,7 +6,9 @@ body {
   font-weight: bold; 
 max-width: 30em;
     width: 50em;
-line-height: 1.4em
+line-height: 1.4em;
+border:  20px solid red;
+padding: 20px
 
 }
 head{
@@ -17,7 +19,6 @@ head{
 h1 {
 
     color: floralwhite/* Added text-decoration to underline */
-  text-underline-position: below;
     font-family: Open Sans, sans-serif;/* This is optional but kept for your requirement */
 }
 
